@@ -13,7 +13,7 @@ int main()
 	printf("input C: ");
 	scanf_s("%lf", &c);
 	printf("input N: ");
-	P = a + b + c;
+	P = a + b / с;
 	b = a * a;
 	//Виведення результату
 	printf("P= %lf\n", P);
